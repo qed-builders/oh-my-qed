@@ -1,6 +1,8 @@
 # oh-my-qed
 > Un alt succes QED oh-my-zsh plugin
 
+![Un alt succes QED](https://github.com/qed-builders/oh-my-qed/assets/5159921/d0ec3ee0-c006-4463-8291-0202d0e13c0a)
+
 ### Prerequisites
 
 ```sh
