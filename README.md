@@ -14,7 +14,7 @@ brew install Code-Hex/tap/neo-cowsay
 Download the plugin into your plugin directory.
 
 ```sh
-git@github.com:qed-builders/oh-my-qed.git ~/.oh-my-zsh/custom/plugins/un-alt-succes-qed
+git clone git@github.com:qed-builders/oh-my-qed.git ~/.oh-my-zsh/custom/plugins/un-alt-succes-qed
 ```
 
 ### Activate
